@@ -1,0 +1,12 @@
+
+
+{
+    "simple-alert/message": {
+      "type": "string",
+      "description": "A string to replace the default message. Default message: Hello Dev.to"
+    },
+    "simple-alert/timeout": {
+      "type": "number",
+      "description": "Number of ms to show the alert. Default timeout: 0 ms"
+    }
+  }
